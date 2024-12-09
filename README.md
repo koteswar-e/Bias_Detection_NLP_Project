@@ -61,10 +61,6 @@ Pre-trained language models like BERT and DistilBERT have revolutionized NLP by 
 - Effective in mitigating biases in gender and profession tasks.
 - Residual biases remain in nuanced contexts.
 
-### Visualizations
-- **Figure 1:** Pre- and post-debiasing EO and DP comparisons across datasets.
-- **Figure 2:** StereoSet score distributions showing overlapping stereotypical and anti-stereotypical scores.
-
 ---
 
 ## Discussion
