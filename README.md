@@ -84,7 +84,7 @@ Pre-trained language models like BERT and DistilBERT have revolutionized NLP by 
 
 ## References
 1. Bolukbasi, T., et al. (2016). *Man is to Computer Programmer as Woman is to Homemaker?* NeurIPS 2016.
-2. Sheng, E., et al. (2019). *The Woman Worked as a Babysitter.* EMNLP-IJCNLP 2019.
+2. Sheng, E., et al. (2019). *The Woman Workes as a Babysitter.* EMNLP-IJCNLP 2019.
 3. Ravfogel, S., et al. (2020). *Null It Out: Debiasing Pre-trained Language Models.* ACL 2020.
 4. Zhao, J., et al. (2018). *Gender Bias in Coreference Resolution.* ACL 2018.
 5. Caliskan, A., et al. (2017). *Semantics Derived Automatically from Language Corpora.* Science 2017.
