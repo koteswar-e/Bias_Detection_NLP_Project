@@ -1,5 +1,3 @@
-# Bias_Detection_NLP_Project
-
 # Bias Detection and Mitigation in Pre-trained Language Models
 
 ## Introduction
