@@ -1,7 +1,5 @@
 # Bias_Detection_NLP_Project
 
-YouTube Link : https://youtu.be/gDj7IBUxx4E
-
 # Bias Detection and Mitigation in Pre-trained Language Models
 
 ## Introduction
